@@ -1,2 +1,2 @@
 # To-Do App
- To-do app is a daily task note down.
+ To-do app is a web app to note daily task in the form of list.
